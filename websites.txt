@@ -1,0 +1,17 @@
+FineWeb (pretraining dataset): 
+https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+
+Tiktokenizer: 
+https://tiktokenizer.vercel.app/
+
+Transformer Neural Net 3D visualizer: 
+https://bbycroft.net/llm
+
+Hyperbolic, for inference of base model: 
+https://app.hyperbolic.xyz/
+
+HuggingFace inference playground: 
+https://huggingface.co/spaces/huggingface/inference-playground
+
+TogetherAI Playground for open model inference: 
+https://api.together.xyz/playground
